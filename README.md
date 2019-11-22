@@ -1,0 +1,2 @@
+# enqual
+Text encoding qualifier
